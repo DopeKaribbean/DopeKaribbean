@@ -12,7 +12,7 @@
       <li>🌱 I’m currently learning <a href="https://nodejs.org" target="_blank"><b>NodeJs</b></a> and <a href="https://threejs.org" target="_blank"><b>ThreeJs</b></a></li>
       <li>👯 I’m looking to collaborate on <b>Javascript projects</b></li>
       <li>🔭 I’m currently working on <a href="http://karibbeancreative.xyz" target="_blank">my portfolio</li>
-      <li>🎮 Fun fact I play video games and go to the gym very often.</li>
+      <li>🎮 I play video games and go to the gym very often.</li>
     </ul>
   </p>
 </div>
@@ -70,19 +70,19 @@
 <p align="center">
 <!--LinkedIn icon-->
    <a href="https://www.linkedin.com/in/oriana-karibbeancreative-webdesigner/">
-      <img src="img/social/icons8-linkedin-94.png" alt="logo Instagram">
+      <img src="img/social/icons8-linkedin-94.png" alt="logo LinkedIn" width="45">
    </a>
 <!--Instagram icon-->
    <a href="https://www.instagram.com/karibbean.creative/?hl=fr">
-      <img src="img/social/icons8-instagram-94.png" alt="logo Instagram">
+      <img src="img/social/icons8-instagram-94.png" alt="logo Instagram" width="45">
    </a>
 <!--Telegram icon-->
-   <a href="https://www.instagram.com/karibbean.creative/?hl=fr">
-      <img src="img/social/icons8-telegram-94.png" alt="logo Instagram">
+   <a href="#">
+      <img src="img/social/icons8-telegram-94.png" alt="logo Telegram" width="45">
    </a>
 <!--Spotify icon-->
    <a href="https://open.spotify.com/user/darkness971?si=a5349d4cd2554bc1">
-      <img src="img/social/icons8-spotify-94.png" alt="logo Instagram">
+      <img src="img/social/icons8-spotify-94.png" alt="logo Spotify" width="45">
    </a>
 </p>
 
