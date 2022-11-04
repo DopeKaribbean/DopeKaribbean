@@ -8,11 +8,11 @@
   <br/><br/>
   <p align="center" width="50%">
     <ul>
-      <li>🎯 I’m focusing on [my courses](https://threejs-journey.com/)</li>
-      <li>🌱 I’m currently learning **<a href="https://nodejs.org" target="_blank" rel="noreferrer">NodeJs</a> and <a href="https://threejs.org" target="_blank" rel="noreferrer">ThreeJs</a>**</li>
-      <li>👯 I’m looking to collaborate on **Javascript projects**</li>
-      <li>🔭 I’m currently working on [my portfolio](http://karibbeancreative.xyz)</li>
-      <li>⚡ Fun fact **I play video games and go to the gym very often.**</li>
+      <li>🎯 I’m focusing on <a href="https://threejs-journey.com" target="_blank">my courses</a></li>
+      <li>🌱 I’m currently learning <a href="https://nodejs.org" target="_blank"><b>NodeJs</b></a> and <a href="https://threejs.org" target="_blank"><b>ThreeJs</b></a></li>
+      <li>👯 I’m looking to collaborate on <b>Javascript projects</b></li>
+      <li>🔭 I’m currently working on <a href="http://karibbeancreative.xyz" target="_blank">my portfolio</li>
+      <li>🎮 Fun fact I play video games and go to the gym very often.</li>
     </ul>
   </p>
 </div>
